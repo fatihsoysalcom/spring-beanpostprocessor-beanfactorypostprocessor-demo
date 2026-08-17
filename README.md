@@ -1,0 +1,2 @@
+# spring-beanpostprocessor-beanfactorypostprocessor-demo
+This example demonstrates Spring's `BeanPostProcessor` and `BeanFactoryPostProcessor` interfaces. `BeanFactoryPostProcessor` modifies bean definitions before any beans are instantiated, allowing for configuration changes at an early stage. `BeanPostProcessor` allows custom logic to be applied to bean instances both before and after their initializa
